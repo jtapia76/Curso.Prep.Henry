@@ -202,12 +202,15 @@ function doWhile(numero) {
   //Usar el bucle do ... while.
   n = 0;
    
-  while (n < 8) {
-    
-    n ++;
-    numero = numero +5;
-
-   }
+  do {
+      n++;
+      numero = numero +5;
+  } while (n < 8)
+ 
+  // while (n < 8) {
+   //   n ++;
+  //   numero = numero +5;
+  //  }
   return numero;
 
 }
