@@ -1,0 +1,44 @@
+body {
+    background-image: url("./img/white-plate.jpg");
+    background-color: lightgray;
+    background-size:contain;
+  
+  }
+  
+  #thirdDiv {
+    color:darkmagenta;
+    font-size: 22px;
+    margin-top: 10px;
+    margin-left: 370px;
+    height: 600px;
+    width: 500px;
+    background-color:lightyellow;
+    padding: 50px;
+    
+  }
+  
+  .divClass {
+    color:darkblue;
+    font-style: oblique;
+    font-size: 25px;
+    text-align: center;
+  }
+  
+  #spanid {
+    color: black;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+    margin: 50px;
+    border-style:double;
+    border-color: darkred;
+  }
+  
+  h1 {
+    color:chocolate;
+  }
+  
+  img {
+    width: 400px;
+    height: 165px;
+  };
